@@ -1,0 +1,14 @@
+C:\Users\gijsv\source\repos\dice\dice\bin\Debug\net6.0\dice.exe
+C:\Users\gijsv\source\repos\dice\dice\bin\Debug\net6.0\dice.deps.json
+C:\Users\gijsv\source\repos\dice\dice\bin\Debug\net6.0\dice.runtimeconfig.json
+C:\Users\gijsv\source\repos\dice\dice\bin\Debug\net6.0\dice.dll
+C:\Users\gijsv\source\repos\dice\dice\bin\Debug\net6.0\dice.pdb
+C:\Users\gijsv\source\repos\dice\dice\obj\Debug\net6.0\dice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gijsv\source\repos\dice\dice\obj\Debug\net6.0\dice.AssemblyInfoInputs.cache
+C:\Users\gijsv\source\repos\dice\dice\obj\Debug\net6.0\dice.AssemblyInfo.cs
+C:\Users\gijsv\source\repos\dice\dice\obj\Debug\net6.0\dice.csproj.CoreCompileInputs.cache
+C:\Users\gijsv\source\repos\dice\dice\obj\Debug\net6.0\dice.dll
+C:\Users\gijsv\source\repos\dice\dice\obj\Debug\net6.0\refint\dice.dll
+C:\Users\gijsv\source\repos\dice\dice\obj\Debug\net6.0\dice.pdb
+C:\Users\gijsv\source\repos\dice\dice\obj\Debug\net6.0\dice.genruntimeconfig.cache
+C:\Users\gijsv\source\repos\dice\dice\obj\Debug\net6.0\ref\dice.dll
